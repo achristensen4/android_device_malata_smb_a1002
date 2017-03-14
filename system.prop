@@ -9,7 +9,7 @@ wifi.interface = wlan0
 # Time between scans in seconds. Keep it high to minimize battery drain.
 # This only affects the case in which there are remembered access points,
 # but none are in range.
-wifi.supplicant_scan_interval = 45
+wifi.supplicant_scan_interval = 16
 
 # The OpenGL ES API level that is natively supported by this device.
 # This is a 16.16 fixed point number
